@@ -5259,10 +5259,10 @@ eslint-plugin-prettier@4.0.0:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-yml@0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-yml/-/eslint-plugin-yml-0.12.0.tgz#919644116a86c153e3af22dc07dd128531167bf3"
-  integrity sha512-aS82M+diohZTusadiByzh/bKDrfi+Y6VBQkD3ym/7JH+KF9WUB9qKCizLfTaCACwtRrHpqaLz3G8GKmslshyiw==
+eslint-plugin-yml@0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-yml/-/eslint-plugin-yml-0.15.0.tgz#99b9ed22a8d9d51e189e822c2f78eeb4eda080ce"
+  integrity sha512-fRx7wNmRvK2FjwCmnsTm71FcHlmH7eMyXpa/GgfwAfb/7RDH0XeOaM8Z8KupYxoizYu8eBLGcPv1DzRZzvhnww==
   dependencies:
     debug "^4.3.2"
     lodash "^4.17.21"
@@ -13552,10 +13552,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
